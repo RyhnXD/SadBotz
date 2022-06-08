@@ -6,8 +6,8 @@ import moment from 'moment-timezone'
 global.owner = [
   ['+62-895-2420-8209'],
   ['+62-813-9598-1439'],
-  ['17608914335', '', true],
-  ['6285272821627', '', true]
+  ['6289524208209', '', true],
+  ['6281395981439', '', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
